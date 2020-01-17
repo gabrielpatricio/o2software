@@ -1,2 +1,2 @@
-# o2software
+# O2S Software
 Financial and Stock Management Software
