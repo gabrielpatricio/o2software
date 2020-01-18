@@ -4,7 +4,7 @@ This software (whose source code cannot be disclosed) was developed in C# and Po
 
 
 
-## Stock Management
+## System Stock Management
 
 ![alt text](https://github.com/gabrielpatricio/o2software/blob/master/2.gif)
 
