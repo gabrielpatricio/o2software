@@ -4,7 +4,7 @@ This software (whose source code cannot be disclosed) was developed in C# and Po
 
 
 
-## Demo Part 1
+## Stock Management
 
 ![alt text](https://github.com/gabrielpatricio/o2software/blob/master/2.gif)
 
@@ -15,7 +15,7 @@ This software (whose source code cannot be disclosed) was developed in C# and Po
 - **Info (Details):** Gives information about where the product is being used and for how long.
 - **Exportar Excel (Export Excel):** Exports an Excel file with all the info presented in the main table. Calculates also the total value spent in each category of products.
 
-## Demo Part 2
+## Stock and Financial Management by project 
 
 ![alt text](https://github.com/gabrielpatricio/o2software/blob/master/1.gif)
 
